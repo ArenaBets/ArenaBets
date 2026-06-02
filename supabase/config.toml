@@ -1,0 +1,7 @@
+project_id = "emkziziotjfchwnhnqby"
+
+[functions.gmgn-proxy]
+verify_jwt = false
+
+[functions.kol-batch]
+verify_jwt = false

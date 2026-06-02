@@ -1,0 +1,2 @@
+[functions.gmgn-proxy]
+verify_jwt = false
