@@ -9,6 +9,7 @@ import {
 } from "@tanstack/react-router";
 
 import appCss from "../styles.css?url";
+import logo from "@/assets/arenabets-logo.png";
 import { ArenaWalletProvider } from "@/components/wallet-provider";
 
 function NotFoundComponent() {
@@ -86,6 +87,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         rel: "stylesheet",
         href: appCss,
+      },
+      {
+        rel: "icon",
+        type: "image/png",
+        href: logo,
       },
     ],
   }),

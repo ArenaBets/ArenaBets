@@ -1,7 +1,7 @@
 # ARENA
 
 <p align="center">
-  <img src="src/assets/arena-logo.jpg" alt="ARENA logo" width="140" />
+  <img src="src/assets/arenabets-logo.png" alt="ARENA logo" width="140" />
 </p>
 
 <p align="center">

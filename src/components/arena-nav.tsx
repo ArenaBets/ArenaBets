@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import logo from "@/assets/arena-logo.jpg";
+import logo from "@/assets/arenabets-logo.png";
 import { ConnectWalletButton } from "@/components/wallet-provider";
 
 type ArenaNavProps = {

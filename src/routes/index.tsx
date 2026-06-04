@@ -1,5 +1,5 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import logo from "@/assets/arena-logo.jpg";
+import logo from "@/assets/arenabets-logo.png";
 import { ArenaNav } from "@/components/arena-nav";
 import { PriceTicker } from "@/components/price-ticker";
 import { ConnectWalletButton } from "@/components/wallet-provider";
